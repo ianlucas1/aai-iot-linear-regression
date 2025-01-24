@@ -1,3 +1,5 @@
 .DS_Store
 household_power_clean.csv
 household_power_clean.zip
+.ipynb_checkpoints/
+
